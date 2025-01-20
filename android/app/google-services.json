@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723274870510",
+    "project_id": "i-know-ball",
+    "storage_bucket": "i-know-ball.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723274870510:android:a4639a1dd46e7206690dff",
+        "android_client_info": {
+          "package_name": "com.iknowball.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aaVKs2uA4DTJiXE_29J5Spz-anys6xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723274870510:android:0e8a13604941e743690dff",
+        "android_client_info": {
+          "package_name": "iknowball.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aaVKs2uA4DTJiXE_29J5Spz-anys6xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
